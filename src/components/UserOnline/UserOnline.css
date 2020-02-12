@@ -1,0 +1,22 @@
+.userOnline {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    padding-left: 5%;
+    background: rgb(26, 72, 151);
+    color: white;
+}
+
+.userOnline>img {
+    margin: 0 5px;
+}
+
+.userOnline_map {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.userOnline_text {
+    margin: 0 5px;
+}
